@@ -4,6 +4,4 @@ for (let i = 1; i <= 100; i++){
     }
 }
 
-
-// joao victor 04/04/2025
 // joao victor 04/04/2025
